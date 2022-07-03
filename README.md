@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinícius Santiago</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm part of the DevCin team at Centro de Informática (UFPE), helping with software development and project planning to create REST APIs, assisting CIn to consume informations in your activities. Currently using NestJS framework with PostgreSQL in the backend, and ReactJS + Material UI in frontend.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
